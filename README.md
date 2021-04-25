@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on ShrimpArc
 - 🌱 I’m currently learning @ Efrei Paris
 - 📫 How to reach me: https://www.linkedin.com/in/yanis-millier/
-- 😄 Pronouns: Skiepy aka Skiep
+- 😄 Nickname : Skiepy aka Skiep
 - ⚡ Fun fact: Skiep means sheep in Frisian
 
