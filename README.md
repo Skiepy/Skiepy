@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on Waipiro
-- - 🌱 I’m currently learning @ Efrei Paris
+- 🌱 I’m currently learning @ Efrei Paris
 - 📫 How to reach me: https://www.linkedin.com/in/yanis-millier/
 - 😄 Nickname : Skiepy aka Skiep
 - ⚡ Fun fact: Skiep means sheep in Frisian
