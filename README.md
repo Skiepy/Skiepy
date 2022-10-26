@@ -4,7 +4,7 @@
 **Skiepy/Skiepy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Waipiro
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning @ Efrei Paris
 - 📫 How to reach me: https://www.linkedin.com/in/yanis-millier/
 - 😄 Nickname : Skiepy aka Skiep
