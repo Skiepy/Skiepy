@@ -1,9 +1,15 @@
 # 💫About Me :
+
 🔭 I’m currently working on "Le Manoir Salé"
+
 🌱 I’m currently learning @ Efrei Paris
+
 📫 How to reach me: https://www.linkedin.com/in/yanis-millier/
+
 😄 Nickname : Skiepy aka Skiep
+
 ⚡ Fun fact: Skiep means sheep in Frisian
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/yanis-millier/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SkiepR6s) 
