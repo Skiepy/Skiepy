@@ -1,5 +1,5 @@
 # 💫About Me :
-🔭 I’m currently working on "Le Manoir Salé" website
+🔭 I’m currently working on multiple projects
 
 🌱 I’m currently learning @ Efrei Paris
 
