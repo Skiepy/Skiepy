@@ -1,7 +1,7 @@
 # 💫About Me :
 🔭 I’m currently working on multiple projects
 
-🌱 I’m currently learning @ Efrei Paris
+🌱 I’m currently working @ Memority
 
 📫 How to reach me: https://www.linkedin.com/in/yanis-millier/
 
